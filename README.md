@@ -1,3 +1,25 @@
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100;9..40,200;9..40,300;9..40,400;9..40,500;9..40,600;9..40,700;9..40,800;9..40,900;9..40,1000&family=Space+Mono:wght@400;700&display=swap');
+
+    * {
+      font-family: "DM Sans", sans-serif;
+    }
+
+    .header {
+      font-family: 'Space Mono', monospace;
+    }
+
+    h1 {
+      color: #16a34a;
+      font-weight: 900;
+    }
+
+    h2 {
+      color: #d2f34c;
+      font-weight: 400;
+    }
+</style>
+
 <!-- JOBI: JOB PORTAL PROJECT -->
 <h1 id="readme-top">JOBI : JOB PORTAL PROJECT</h1>
 <p class="header">Are you ready to embark on a journey toward your dream career? Look no further than Jobi, your ultimate job portal and the gateway to a world of professional opportunities. Whether you're a seasoned executive looking to take the next step in your career or a fresh graduate eager to make your mark, Jobi is here to guide you every step of the way.</p>

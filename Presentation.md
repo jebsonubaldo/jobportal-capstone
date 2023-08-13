@@ -42,7 +42,7 @@ marp: true
 
 <h2>Developers:</h2>
 
-<a href="https://github.com/SDarius14"><img src="https://img.shields.io/badge/dariushernandez-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a> - Project Manager </br> <a href="https://github.com/emailjohnthomascaballero"><img src="https://img.shields.io/badge/johncaballero-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a> - QA Analyst </br> <a href="https://github.com/jebsonubaldo"><img src="https://img.shields.io/badge/jebsonubaldo-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a> - DevOps Engineer
+<a href="https://github.com/SDarius14"><img src="https://img.shields.io/badge/dariushernandez-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a> - Project Manager </br> <a href="https://github.com/emailjohnthomascaballero"><img src="https://img.shields.io/badge/johncaballero-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a> - QA Test Engineer </br> <a href="https://github.com/jebsonubaldo"><img src="https://img.shields.io/badge/jebsonubaldo-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a> - DevOps Engineer
 
 --- 
 
@@ -199,7 +199,7 @@ Jobi is a cutting-edge job portal website that aims to redefine the way you sear
 </div>
 
 * Github Link: https://github.com/SDarius14/jobportal-capstone
-* Project Link: https://jobi-08d105e8e560.herokuapp.com/
+* Project Link: https://jobi-6e0b4dda90ab.herokuapp.com/
 
 ---
 
