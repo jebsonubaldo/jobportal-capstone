@@ -127,6 +127,26 @@ Jobi is a cutting-edge job portal website that aims to redefine the way you sear
 </div>
 
 ---
+<h2>Challenges Encountered</h2>
+
+<div class="planning">
+<div>
+
+* Complex merges with team members simultaneous work can cause conflicts, code inconsistencies, and errors.
+
+    <img src="./public/assets/presentation/challenge_1.jfif" class="steps">
+
+</div>
+<div>
+
+* Implementing forEach loops in EJS templates for dynamic content that can lead to unexpected behavior and error.
+
+    <img src="./public/assets/presentation/challenge_2.png" class="steps">
+
+</div>
+</div>
+
+---
 
 <h2>Development</h2>
 
